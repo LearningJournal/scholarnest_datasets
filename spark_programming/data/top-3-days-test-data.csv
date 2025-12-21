@@ -1,7 +1,7 @@
-booked_by,booking_date,revenue,rank
-Guest,2022-07-24,1105,1
-Guest,2022-07-27,990,2
-Guest,2022-07-30,986.5,3
-Member,2022-07-25,626,1
-Member,2022-07-31,486,2
-Member,2022-07-26,455,3
+booked_by,booking_date,revenue
+Guest,2022-07-24,1105
+Guest,2022-07-27,990
+Guest,2022-07-30,986.5
+Member,2022-07-25,626
+Member,2022-07-31,486
+Member,2022-07-26,455
